@@ -10,8 +10,7 @@
   "author": "Javier López",
   "license": "ISC",
   "devDependencies": {
-    "dotenv": "^8.2.0",
-    "mongoose": "^5.11.12",
+
     "nodemon": "^2.0.7"
   },
   "dependencies": {
@@ -19,6 +18,8 @@
     "cors": "^2.8.5",
     "express-validator": "^6.9.2",
     "jsonwebtoken": "^8.5.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.11.12"
   }
 }
